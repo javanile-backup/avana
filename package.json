@@ -1,0 +1,15 @@
+{
+  "name": "avanajs",
+  "version": "0.0.1",
+  "description": "browser-side require() the node way",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify index.js -o dist/avana.js"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.3",
+    "jquery": "^1.12.4",
+    "qunit": "^2.9.2",
+    "uglify-js": "^3.6.0"
+  }
+}

@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "browserify": "^16.2.3",
-    "jquery": "^1.12.4",
+    "jquery": "^3.4.1",
     "qunit": "^2.9.2",
     "uglify-js": "^3.6.0"
   }
